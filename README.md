@@ -1,11 +1,15 @@
 # edu.halt.dev
 A static educational CMS platform under halt.dev. Originally hosted via willi.uk/Office.html
+
+[Troubleshooting](https://github.com/wilhelmli/edu.halt.dev/wiki/Troubleshooting)
+
+[New initiatives](https://github.com/wilhelmli/edu.halt.dev/wiki/New-initiatives)
+
 # Changelog
 All notable changes to this project will be documented in this file.
 ## v2.1 (24-11-2020)
 Continue to build an interactive classroom for complex ideologies through a new structure.
 ### Features
-**QR code portal**
 
 ## v2 (16-11-2020)
 Pigeonhole has been replaced by Support chat ([Disqus](https://disqus.com) integration). You can now comment directly on this web page (Modal window extension created by witsec).
