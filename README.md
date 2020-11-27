@@ -1,6 +1,8 @@
 # edu.halt.dev
-A static educational CMS platform under halt.dev that documents Wilhelm's experience with Kultusministerkonferenz at [Europaschule
+A static educational CMS platform under halt.dev that documents [Wilhelm](https://github.com/wilhelmli)'s experience with Kultusministerkonferenz at [Europaschule
 Oberstufenzentrum](http://www.osz-oder-spree.de/) in Fürstenwalde/Spree, Brandenburg Germany. Currently hosted via [willi.uk/Office.html](https://willi.uk/Office.html)
+
+Learn more about [Wilhelm (Haojiang) Li](https://github.com/wilhelmli).
 
 ## Recent change
 > As of 27 Nov. , the supervisor filed issues on the followings: 
