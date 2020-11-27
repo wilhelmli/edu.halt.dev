@@ -2,7 +2,6 @@
 A static educational CMS platform under halt.dev. Originally hosted via willi.uk/Office.html
 
 ## Recent change
-All notable changes to this project will be documented in this file.
 
 ### v2.1 (24-11-2020)
 Continue to build an interactive classroom for complex ideologies through a new structure.
