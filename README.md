@@ -2,6 +2,13 @@
 A static educational CMS platform under halt.dev. Currently hosted via [willi.uk/Office.html](https://willi.uk/Office.html)
 
 ## Recent change
+> As of 27 Nov. , the supervisor filed issues on the followings: 
+1. The language assistant is not working 12 hours a week.
+2. The language assistant is not providing relevant materials to the courses.
+
+***
+
+## Versions
 
 ### v2.1 (24-11-2020)
 Continue to build an interactive classroom for complex ideologies through a new structure.
