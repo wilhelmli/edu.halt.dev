@@ -1,5 +1,5 @@
 # edu.halt.dev
-A static educational CMS platform under halt.dev. Originally hosted via willi.uk/Office.html
+A static educational CMS platform under halt.dev. Currently hosted via [willi.uk/Office.html](https://willi.uk/Office.html)
 
 ## Recent change
 
