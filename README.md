@@ -6,6 +6,8 @@ A static educational CMS platform under halt.dev. Currently hosted via [willi.uk
 1. The language assistant is not working 12 hours a week.
 2. The language assistant is not providing relevant materials to the courses.
 
+Detailed report can be found in [Troubleshooting](https://github.com/wilhelmli/edu.halt.dev/wiki/Troubleshooting).
+
 ***
 
 ## Versions
