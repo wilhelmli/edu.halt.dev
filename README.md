@@ -1,5 +1,6 @@
 # edu.halt.dev
-A static educational CMS platform under halt.dev. Currently hosted via [willi.uk/Office.html](https://willi.uk/Office.html)
+A static educational CMS platform under halt.dev that documents Wilhelm's experience with Kultusministerkonferenz at [Europaschule
+Oberstufenzentrum](http://www.osz-oder-spree.de/) in Fürstenwalde/Spree, Brandenburg Germany. Currently hosted via [willi.uk/Office.html](https://willi.uk/Office.html)
 
 ## Recent change
 > As of 27 Nov. , the supervisor filed issues on the followings: 
@@ -24,7 +25,7 @@ Continue to build an interactive classroom for complex ideologies through a new 
 [New initiatives](https://github.com/wilhelmli/edu.halt.dev/wiki/New-initiatives)
 
 ## Resources
-Sites and integrations used
+Sites and integrations used to host Wilhelm's lesson materials.
 
 [Disqus](https://disqus.com/home/forum/willi-uk/) (New feedback portal)
 
