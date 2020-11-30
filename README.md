@@ -3,7 +3,7 @@ A static educational CMS platform under halt.dev that documents [Wilhelm](https:
 
 Learn more about [Wilhelm (Haojiang) Li](https://github.com/wilhelmli).
 
-***
+
 
 ## Table of Contents:
  - [1st Quarterly Self Assessment](https://github.com/wilhelmli/edu.halt.dev/wiki/1st-Quarterly-Self-Assessment)
@@ -13,7 +13,7 @@ Learn more about [Wilhelm (Haojiang) Li](https://github.com/wilhelmli).
  - [Resources](https://edu.halt.dev/#resources)
  - [Discussions](https://edu.halt.dev/#discussions)
  
-***
+
 
 ## [1st Quarterly Self Assessment](https://github.com/wilhelmli/edu.halt.dev/wiki/1st-Quarterly-Self-Assessment)
 
@@ -51,7 +51,7 @@ Detailed report can be found in [Troubleshooting](https://github.com/wilhelmli/e
 ### v2.1 (24-11-2020)
 Continue to build an interactive classroom for complex ideologies through a new structure.
 
-***
+
 
 ## Documentations
 
@@ -61,7 +61,7 @@ Continue to build an interactive classroom for complex ideologies through a new 
 
 [New initiatives](https://github.com/wilhelmli/edu.halt.dev/wiki/New-initiatives)
 
-***
+
 
 ## Resources
 Sites and integrations used to host Wilhelm's lesson materials.
@@ -76,7 +76,7 @@ Sites and integrations used to host Wilhelm's lesson materials.
 
 [Calendly](https://calendly.com/wilhelmli/office-hours)
 
-***
+
 
 ## Discussions
 - How to create meaningful contents that are easily understandable?
