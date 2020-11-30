@@ -3,6 +3,17 @@ A static educational CMS platform under halt.dev that documents [Wilhelm](https:
 
 Learn more about [Wilhelm (Haojiang) Li](https://github.com/wilhelmli).
 
+***
+
+## Table of Contents:
+ - [1st Quarterly Self Assessment](https://github.com/wilhelmli/edu.halt.dev/wiki/1st-Quarterly-Self-Assessment)
+ - [Recent Change](https://edu.halt.dev/#recent-change)
+ - [Versions](https://edu.halt.dev/#versions)
+ - [Documentations](https://edu.halt.dev/#documentations-1)
+ - [Resources](https://edu.halt.dev/#resources)
+ - [Discussions](https://edu.halt.dev/#discussions)
+***
+
 ## [1st Quarterly Self Assessment](https://github.com/wilhelmli/edu.halt.dev/wiki/1st-Quarterly-Self-Assessment)
 
 ### Initiatives
@@ -13,6 +24,7 @@ The challenge of being part of the [**Parachute Generation**](https://www.nytime
 
 ### Documentations
 Addressing issues on the following fields:
+
 [Schedule](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Schedule-Issues)
 
 [Contents](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Contents-Issues)
@@ -39,6 +51,8 @@ Detailed report can be found in [Troubleshooting](https://github.com/wilhelmli/e
 ### v2.1 (24-11-2020)
 Continue to build an interactive classroom for complex ideologies through a new structure.
 
+***
+
 ## Documentations
 
 [Changelog](https://github.com/wilhelmli/edu.halt.dev/wiki/Changelog)
@@ -46,6 +60,8 @@ Continue to build an interactive classroom for complex ideologies through a new 
 [Troubleshooting](https://github.com/wilhelmli/edu.halt.dev/wiki/Troubleshooting)
 
 [New initiatives](https://github.com/wilhelmli/edu.halt.dev/wiki/New-initiatives)
+
+***
 
 ## Resources
 Sites and integrations used to host Wilhelm's lesson materials.
@@ -59,6 +75,8 @@ Sites and integrations used to host Wilhelm's lesson materials.
 [Website](https://willi.uk/Office.html) hosted via [Github Pages](https://github.com/wilhelmli/wilhelmli.github.io/blob/master/Office.html) built with [Mobirise](https://mobirise.com/)
 
 [Calendly](https://calendly.com/wilhelmli/office-hours)
+
+***
 
 ## Discussions
 - How to create meaningful contents that are easily understandable?
