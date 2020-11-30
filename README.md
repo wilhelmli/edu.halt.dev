@@ -1,8 +1,29 @@
 # edu.halt.dev
-A static educational CMS platform under halt.dev that documents [Wilhelm](https://github.com/wilhelmli)'s experience with Kultusministerkonferenz at [Europaschule
-Oberstufenzentrum](http://www.osz-oder-spree.de/) in Fürstenwalde/Spree, Brandenburg Germany. Currently hosted via [willi.uk/Office.html](https://willi.uk/Office.html)
+A static educational CMS platform under halt.dev that documents [Wilhelm](https://github.com/wilhelmli)'s experience with Kultusministerkonferenz at [Europaschule Oberstufenzentrum](http://www.osz-oder-spree.de/) in Fürstenwalde/Spree, Brandenburg Germany. Currently hosted via [willi.uk/Office.html](https://willi.uk/Office.html)
 
 Learn more about [Wilhelm (Haojiang) Li](https://github.com/wilhelmli).
+
+## [1st Quarterly Self Assessment](https://github.com/wilhelmli/edu.halt.dev/wiki/1st-Quarterly-Self-Assessment)
+
+### Initiatives
+
+Please understand that 2020 is a challenging year for everyone. In the case of Wilhelm, things can be more severe due to the double pressures of COVID and living in a new country. However, if a healthy workplace relationship is indeed unrepairable, Wilhelm will not object to the decision made by authorities.
+
+The challenge of being part of the [**Parachute Generation**](https://www.nytimes.com/2017/02/02/magazine/the-parachute-generation.html) was meant be addressed to bring in new perspective to the classroom.
+
+### Documentations
+Addressing issues on the following fields:
+[Schedule](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Schedule-Issues)
+
+[Contents](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Contents-Issues)
+
+[Presentation](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Presentation-Issues)
+
+[Next steps & Resources](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Next-steps-&-Resources)
+
+Detailed report can be found [here](https://github.com/wilhelmli/edu.halt.dev/wiki/1st-Quarterly-Self-Assessment).
+
+***
 
 ## Recent change
 > As of 27 Nov. , the supervisor filed issues on the followings: 
