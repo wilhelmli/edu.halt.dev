@@ -9,7 +9,7 @@ Learn more about [Wilhelm (Haojiang) Li](https://github.com/wilhelmli).
  - [1st Quarterly Self Assessment](https://github.com/wilhelmli/edu.halt.dev/wiki/1st-Quarterly-Self-Assessment)
  - [Recent Change](https://edu.halt.dev/#recent-change)
  - [Versions](https://edu.halt.dev/#versions)
- - [Documentations](https://edu.halt.dev/#documentations-1)
+ - [Documentations](https://edu.halt.dev/#documentations)
  - [Resources](https://edu.halt.dev/#resources)
  - [Discussions](https://edu.halt.dev/#discussions)
 ***
@@ -22,7 +22,6 @@ Please understand that 2020 is a challenging year for everyone. In the case of W
 
 The challenge of being part of the [**Parachute Generation**](https://www.nytimes.com/2017/02/02/magazine/the-parachute-generation.html) was meant be addressed to bring in new perspective to the classroom.
 
-### Documentations
 Addressing issues on the following fields:
 
 [Schedule](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Schedule-Issues)
