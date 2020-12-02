@@ -34,13 +34,15 @@ Detailed report can be found [here](https://github.com/wilhelmli/edu.halt.dev/wi
 ## Recent changes
 > As of 02 Dec. , the language assistant contacted Auslanderbehörde for further guidance. Concerning visa for Germany, the language assistant's visa was likely to be a residence permit only because the language assistance receive a stipend and not a salary, therefore they are exempt of paying taxes and social contributions and **KMK-PAD's reciprocal program** is exempt from **Labor Market Impact Assessment**.
 
-> As of 01 Dec. , the [Europaschule Oberstufenzentrum](http://www.osz-oder-spree.de/) has terminated their contract with the language assistant with a verbal notice. Throughout the process, there is no written Abwarnung (Formal warning) concerning the language assistant's performance.
+> As of 01 Dec. , the [Europaschule Oberstufenzentrum](http://www.osz-oder-spree.de/) has terminated their contract with the language assistant with a verbal notice. Throughout the process, there is no written **Abwarnung (Formal warning)** concerning the language assistant's performance.
 
 > As of 27 Nov. , the supervisor filed issues on the followings: 
 1. The language assistant is not working 12 hours a week.
 2. The language assistant is not providing relevant materials to the courses.
 
 Detailed report can be found in [Troubleshooting](https://github.com/wilhelmli/edu.halt.dev/wiki/Troubleshooting) and [1st Quarterly Self Assessment](https://github.com/wilhelmli/edu.halt.dev/wiki/1st-Quarterly-Self-Assessment).
+
+KMK-PAD assisted the process by proposing **Kultusbehörde** of the Bundesland for further assistance. 
 
 ***
 
