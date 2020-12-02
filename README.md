@@ -7,7 +7,7 @@ Learn more about [Wilhelm (Haojiang) Li](https://github.com/wilhelmli).
 
 ## Table of Contents:
  - [1st Quarterly Self Assessment](https://github.com/wilhelmli/edu.halt.dev/wiki/1st-Quarterly-Self-Assessment)
- - [Recent Change](https://edu.halt.dev/#recent-change)
+ - [Recent Changes](https://edu.halt.dev/#recent-changes)
  - [Versions](https://edu.halt.dev/#versions)
  - [Documentations](https://edu.halt.dev/#documentations)
  - [Resources](https://edu.halt.dev/#resources)
@@ -25,24 +25,22 @@ The challenge of being part of the [**Parachute Generation**](https://www.nytime
 
 Addressing issues on the following fields:
 
-[Schedule](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Schedule-Issues)
-
-[Contents](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Contents-Issues)
-
-[Presentation](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Presentation-Issues)
-
-[Next steps & Resources](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Next-steps-&-Resources)
+[Schedule](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Schedule-Issues) • [Contents](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Contents-Issues) • [Presentation](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Presentation-Issues) • [Next steps & Resources](https://github.com/wilhelmli/edu.halt.dev/wiki/1st:-Next-steps-&-Resources)
 
 Detailed report can be found [here](https://github.com/wilhelmli/edu.halt.dev/wiki/1st-Quarterly-Self-Assessment).
 
 ***
 
-## Recent change
+## Recent changes
+> As of 02 Dec. , the language assistant contacted Auslanderbehörde for further guidance. Concerning visa for Germany, the language assistant's visa was likely to be a residence permit only because the language assistance receive a stipend and not a salary, therefore they are exempt of paying taxes and social contributions and **KMK-PAD's reciprocal program** is exempt from **Labor Market Impact Assessment**.
+
+> As of 01 Dec. , the [Europaschule Oberstufenzentrum](http://www.osz-oder-spree.de/) has terminated their contract with the language assistant with a verbal notice. Throughout the process, there is no written Abwarnung (Formal warning) concerning the language assistant's performance.
+
 > As of 27 Nov. , the supervisor filed issues on the followings: 
 1. The language assistant is not working 12 hours a week.
 2. The language assistant is not providing relevant materials to the courses.
 
-Detailed report can be found in [Troubleshooting](https://github.com/wilhelmli/edu.halt.dev/wiki/Troubleshooting).
+Detailed report can be found in [Troubleshooting](https://github.com/wilhelmli/edu.halt.dev/wiki/Troubleshooting) and [1st Quarterly Self Assessment](https://github.com/wilhelmli/edu.halt.dev/wiki/1st-Quarterly-Self-Assessment).
 
 ***
 
